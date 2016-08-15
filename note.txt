@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 haha
+=======
+haha in note.txt
+>>>>>>> master
